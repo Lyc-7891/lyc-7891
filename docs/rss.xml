@@ -1,4 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lyc的小站</title><link>https://Lyc-7891.github.io/lyc-7891</link><description>lyc在Githup上搭建的博客，主要是好玩。。。我会在这将一些奇奇怪怪的事。</description><copyright>lyc的小站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/218353946?v=4</url><title>avatar</title><link>https://Lyc-7891.github.io/lyc-7891</link></image><lastBuildDate>Sun, 29 Jun 2025 02:51:13 +0000</lastBuildDate><managingEditor>lyc的小站</managingEditor><ttl>60</ttl><webMaster>lyc的小站</webMaster><item><title>如何免费获得一个短的二级域名</title><link>https://Lyc-7891.github.io/lyc-7891/post/ru-he-mian-fei-huo-de-yi-ge-duan-de-er-ji-yu-ming.html</link><description># 如何免费获得一个短的二级域名？
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lyc的小站</title><link>https://Lyc-7891.github.io/lyc-7891</link><description>lyc在Githup上搭建的博客，主要是好玩。。。我会在这将一些奇奇怪怪的事。</description><copyright>lyc的小站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/218353946?v=4</url><title>avatar</title><link>https://Lyc-7891.github.io/lyc-7891</link></image><lastBuildDate>Sun, 29 Jun 2025 02:57:24 +0000</lastBuildDate><managingEditor>lyc的小站</managingEditor><ttl>60</ttl><webMaster>lyc的小站</webMaster><item><title>我毕业了</title><link>https://Lyc-7891.github.io/lyc-7891/post/wo-bi-ye-le.html</link><description>### 就是说，我终于不是小学生了
+
+- 暑假没作业！！！！！！！！！！！！！！！！！！！（好像
+- 所以说呢，可以玩一下了(终于
+```python
+def main() : 
+    print('66666666666666')
+if __name__ == '__main__' : 
+    main()
+```。</description><guid isPermaLink="true">https://Lyc-7891.github.io/lyc-7891/post/wo-bi-ye-le.html</guid><pubDate>Sun, 29 Jun 2025 02:56:57 +0000</pubDate></item><item><title>如何免费获得一个短的二级域名</title><link>https://Lyc-7891.github.io/lyc-7891/post/ru-he-mian-fei-huo-de-yi-ge-duan-de-er-ji-yu-ming.html</link><description># 如何免费获得一个短的二级域名？
 ## 注册
 先注册 _infinityfree_ ，这是一个国外的免费域名/云主机提供商。</description><guid isPermaLink="true">https://Lyc-7891.github.io/lyc-7891/post/ru-he-mian-fei-huo-de-yi-ge-duan-de-er-ji-yu-ming.html</guid><pubDate>Sat, 28 Jun 2025 09:14:14 +0000</pubDate></item></channel></rss>
