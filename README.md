@@ -1,6 +1,6 @@
-# lyc的小站 :link: https://Lyc-7891.github.io/lyc-7891 
-### :page_facing_up: [2](https://Lyc-7891.github.io/lyc-7891/tag.html) 
+# lyc的小站 :link: http://lyc.rf.gd/ 
+### :page_facing_up: [2](http://lyc.rf.gd//tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 810 
-### :alarm_clock: 2025-06-29 10:57:24 
+### :alarm_clock: 2025-06-29 11:08:58 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
